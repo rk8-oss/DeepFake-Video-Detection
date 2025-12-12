@@ -1,0 +1,20 @@
+{
+    "cluster_0": {
+        "count": 16805,
+        "selected_count": 13444,
+        "prefixes": {
+            "YT_": 9404,
+            "DF_": 7401,
+            "NT_": 0
+        }
+    },
+    "cluster_1": {
+        "count": 21331,
+        "selected_count": 17064,
+        "prefixes": {
+            "YT_": 12268,
+            "DF_": 9063,
+            "NT_": 0
+        }
+    }
+}

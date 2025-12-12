@@ -1,0 +1,7 @@
+{
+  "total_videos": 200,
+  "real_videos": 164,
+  "fake_videos": 36,
+  "real_percentage": 82.0,
+  "fake_percentage": 18.0
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "video_name": "096",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "033",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "003",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "040",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "023_923",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "045",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "083",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "070",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "014_790",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "043_110",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "003_000",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "060",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "085",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "004",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "DF_043_110",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "DF_033_097",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "016",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "000",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "034_590",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_017_803",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_002_006",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "047",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "035_036",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_046_904",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "044_945",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "010",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "090",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "065",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "002_006",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_008_990",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "029",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "005_010",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "030_193",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "091",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "059",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "001",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "072",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "020",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "046",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "028",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "057",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "062",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_029_048",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "077",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "092",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "067",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "027_009",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "021",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "019",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "030",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "080",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "082",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "084",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_028_068",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_027_009",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "038_125",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "008_990",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "037",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "095",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "018_019",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "094",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "086",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "081",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "052",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "012",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "009_027",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "069",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "011_805",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "088",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_022_489",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "048",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "037_072",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_049_946",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "093",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_032_944",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_001_870",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_024_073",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "079",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "071",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "031",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_025_067",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "008",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_016_209",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "015_919",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_021_312",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "029_048",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_030_193",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "031_163",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "048_029",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "099",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "034",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "026_012",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_018_019",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_005_010",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_020_344",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "056",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_044_945",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "DF_036_035",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "058",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "045_889",
+    "pred_label": "REAL"
+  }
+]

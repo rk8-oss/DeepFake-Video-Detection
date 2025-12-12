@@ -1,0 +1,394 @@
+[
+  {
+    "video_name": "0021",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0038_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0016_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0039_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0028",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0046_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0017_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0020",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0014_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0041",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0023",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0037_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0031",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0048_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0042_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0025",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0014",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0020_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0023_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0001_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0019_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0045_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0005",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0027",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0005_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0047_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0017",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0033_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0002",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0025_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0029",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0037",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0011_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0032",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0030_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0008",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0048",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0039",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0015_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0040",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0010_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0043_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0012_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0008_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0030",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0012",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0040_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0015",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0003",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0024",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0034",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0022",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0013",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0016",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0002_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0000_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0035_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0035",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0006_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0032_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0029_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0004",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0044_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0024_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0011",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0021_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0031_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0009_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0044",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0042",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0041_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0026",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0018",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0026_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0036",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0047",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0043",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0018_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0038",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0036_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0034_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0046",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0028_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0022_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0009",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0000",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0004_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0033",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0007",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0010",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0007_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0027_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0006",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0003_fake",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0013_fake",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0045",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "0019",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "0001",
+    "pred_label": "FAKE"
+  }
+]

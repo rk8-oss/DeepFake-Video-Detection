@@ -1,0 +1,402 @@
+[
+  {
+    "video_name": "22__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "07__secret_conversation",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "13__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "11__exit_phone_room",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "09__talking_angry_couch",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "28__secret_conversation",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "15__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "09__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "23__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "20__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "23__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "01__walking_outside_cafe_disgusted",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "11__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "15__walking_and_outside_surprised",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "06__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "21__hugging_happy",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "20__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "01__talking_angry_couch",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "19__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "25__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "13__outside_talking_still_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "19__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "25__podium_speech_happy",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "27__outside_talking_pan_laughing",
+    "pred_label": "FAKE"
+  },
+  {
+    "video_name": "17__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "17__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "06__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__walking_and_outside_surprised",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__walking_and_outside_surprised",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "18__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "18__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "21__walking_down_indoor_hall_disgust",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "26__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "26__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "25__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "27__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "26__kitchen_still",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__secret_conversation",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "14__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "01__podium_speech_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "10__outside_talking_still_laughing",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "05__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "22__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "20__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "13__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "14__walking_down_indoor_hall_disgust",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "22__exit_phone_room",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "24__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "23__kitchen_still",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "21__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "15__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__secret_conversation",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "25__secret_conversation",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__exit_phone_room",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "11__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__podium_speech_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "14__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "28__kitchen_still",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "23__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__secret_conversation",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "25__exit_phone_room",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__walking_outside_cafe_disgusted",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "10__walk_down_hall_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__exit_phone_room",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "17__podium_speech_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "24__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__exit_phone_room",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "07__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "28__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__meeting_serious",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "20__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "16__walking_down_indoor_hall_disgust",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__walking_down_indoor_hall_disgust",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__podium_speech_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "21__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "02__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__walking_outside_cafe_disgusted",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "15__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "13__talking_angry_couch",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "17__kitchen_still",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "20__hugging_happy",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "22__walking_and_outside_surprised",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "26__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "22__secret_conversation",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "27__walking_down_street_outside_angry",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "27__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "03__walking_outside_cafe_disgusted",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "19__kitchen_pan",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "12__outside_talking_still_laughing",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "07__outside_talking_pan_laughing",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "06__talking_against_wall",
+    "pred_label": "REAL"
+  },
+  {
+    "video_name": "21__exit_phone_room",
+    "pred_label": "REAL"
+  }
+]
